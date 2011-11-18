@@ -1,0 +1,6 @@
+libtcp-portmon
+==============
+
+This was copied from conky's source and rewritten to use uthash over glib.
+
+The original author was Philip Kovacs pkovacs@users.sourceforge.net.
